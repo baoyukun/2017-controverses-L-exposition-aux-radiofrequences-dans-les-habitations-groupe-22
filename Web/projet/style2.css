@@ -1,0 +1,47 @@
+/* Website-Container */
+
+body {
+	margin: 50px;
+}
+
+.container {
+    position: relative;
+    width: 1000px;
+    height: 600px;
+    overflow: hidden;
+}
+
+/* Style der Satelliten */
+
+.orbit li {
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+    border: 2px solid #000;
+	background: #fff;
+    text-align: center;
+}
+
+.orbit li.orbitlistJS-orbit-1{
+	width: 120px;
+    height: 120px;
+    border-radius: 120px;
+    border: 2px solid #000;
+	background: #fff;
+}
+
+ul.orbit.orbitlistJS li {
+    transition: all 0.2s linear;
+}
+
+ul.orbit.orbitlistJS li:hover {
+    background: #ddd;
+}
+
+.orbit li.orbitlistJS-trace {
+    background: #bbb;
+}
+
+.orbit li.orbitlistJS-active {
+    background: #999;
+}

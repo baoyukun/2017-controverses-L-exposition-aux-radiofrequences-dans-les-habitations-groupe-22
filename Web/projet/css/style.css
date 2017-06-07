@@ -1,9 +1,36 @@
 
 body {
-		margin: 50px;
+		margin: 75px;
 		background-color: #e9f0f5;
 }
 
 footer {
 	background-color: #aaa;
+}
+
+.arg_pour, .arg_contre {
+	font-weight: bold;
+	text-align: center;
+	margin-top: 60px;
+	font-size: 20px;
+}
+
+.arg_pour {
+	color: blue;
+}
+
+.arg_contre {
+	color: orange;
+}
+
+#args1 {
+	opacity: 0.4;
+}
+
+#args2 {
+	opacity: 0.6;
+}
+
+#args3 {
+	opacity: 0.8;
 }
