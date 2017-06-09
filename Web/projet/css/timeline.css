@@ -14,7 +14,7 @@ html * {
   box-sizing: border-box;
 }
 
-body {
+.cd-container {
   font-size: 100%;
   font-family: "Droid Serif", serif;
   color: #7f8c97;
@@ -31,10 +31,12 @@ img {
   max-width: 100%;
 }
 
-h1, h2 {
+.cd-container h1, h2 {
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
 }
+
+
 
 /* -------------------------------- 
 
@@ -59,27 +61,7 @@ Modules - reusable parts of our design
 Main components 
 
 -------------------------------- */
-header {
-  height: 200px;
-  line-height: 200px;
-  text-align: center;
-  background: #303e49;
-}
-header h1 {
-  color: white;
-  font-size: 18px;
-  font-size: 1.125rem;
-}
-@media only screen and (min-width: 1170px) {
-  header {
-    height: 300px;
-    line-height: 300px;
-  }
-  header h1 {
-    font-size: 24px;
-    font-size: 1.5rem;
-  }
-}
+
 
 #cd-timeline {
   position: relative;
@@ -155,7 +137,7 @@ header h1 {
   margin-top: -15px;
 }
 
-.cd-timeline-content a {
+.cd-timeline-content .glyphicon {
   position: absolute;
   top:30px;  
   left:95%;
@@ -491,3 +473,4 @@ header h1 {
     transform: translateX(0);
   }
 }
+

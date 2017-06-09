@@ -8,8 +8,18 @@
     <title>ETIC - L'exposition aux radiofréquences dans les habitations</title>
 
     <!-- Bootstrap -->
+	<link href="http://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/style.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/orbitlist.css" media='all' type="text/css" />
+    <link rel="stylesheet" href="css/style2.css" media='all' type="text/css" />
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+        <script src="http://code.jquery.com/jquery-1.12.1.min.js"></script>
+        <script src="js/orbitlist.js"></script>
+		<script src="js/modernizr.js"></script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -23,8 +33,10 @@
   
   <div class="page-header">
   <div class="container">
-  <div class="row"><h1>L'exposition aux radiofréquences dans les habitations</h1></div>
-  <div class="row"><img src="http://placehold.it/1250X250" class="img-responsive center-block" ></div>
+  <div class="row">
+	<div class="col-md-8 text-center"><h1>L'exposition aux radiofréquences dans les habitations</h1></div>
+	<div class="col-md-4 img-responsive center-block"><img src="img/ondes-logo.png"></div>
+  </div>
   
   </div>
 </div>	
@@ -53,11 +65,9 @@
                 <li><a href="expert.html">Expertise scientifique et technique</a></li>
                 <li><a href="presse.html">Presse et médias</a></li>
                 <li><a href="politique.html">Politique et droit</a></li>
-				<li><a href="société.html">Société civile</a></li>
                 <li><a href="entretiens.html">Entretiens</a></li>
               </ul>
             </li>
-			<li><a href="divers.html">Divers</a></li>
 			<li><a href="groupe.html">Le groupe</a></li>
           </ul>
         </div>
@@ -67,8 +77,63 @@
 </div><!-- /navbar wrapper -->
 
 
-
-
+<div class="container" id="arbre">
+            <ul class="orbit">
+                        <li>Organisations indépendantes
+							<ul>
+								<li><span data-target="#criirem" data-toggle="collapse">CRIIREM</span></li>
+								<li>CREAL</li>
+								<li>ICNIRP</li>
+								<li>CRIIREM</li>
+								<li>IRPA</li>
+								<li>INTERPHONE</li>
+							</ul>
+						</li>
+                        <li>Organisations internationales
+							<ul>
+								<li>SCENIHR</li>
+								<li>OMS</li>
+								<li>CIRC</li>
+								<li>ICNIRP</li>
+								<li>PNUE</li>
+								<li>IRPA</li>
+								<li>ITU</li>
+								<li>ILO</li>
+							</ul>
+						</li>
+                        <li>Organisations étatiques
+							<ul>
+								<li>ANSES</li>
+								<li>ANFR</li>
+								<li>DGPR</li>
+								<li>ARCEP</li>
+								<li>COPIC/COMOP</li>
+							</ul>
+						</li>
+                        <li>Industriels</li>
+						<li>Institutions juridiques
+							<ul>
+								<li>Santé Publique France</li>
+								<li>Grenelle des ondes</li>
+								<li>Assemblée Nationale</li>
+								<li>Sénat</li>
+								<li>Tribunal des Grandes Instances</li>
+								<li>Cour d'Appel</li>
+								<li>Conseil d'État</li>
+								<li>Conseil de l'UE</li>
+								<li>Parlement Européen</li>
+							</ul>
+						</li>
+                        <li>Militants anti-ondes
+							<ul>
+								<li>Robin des toits</li>
+								<li>PRIARTEM</li>
+								<li>Santé Sans Ondes</li>
+								<li>Alter-Ondes35</li>
+							</ul>
+						</li>
+            </ul>
+        </div>
  
 
 
@@ -80,11 +145,6 @@
 
 </div><!-- /.container -->
 
-
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js"></script>
 
   </body>
 </html>
