@@ -12,6 +12,6 @@ Our group members are:
 - [Louis Fesquet](https://github.com/LouisFesquet) (Presse et médias)
 - [Najate Ochbouk](https://github.com/Najate) (Politique et droit)
 
-For more information, please refer to the [course website](https://controverses.telecom-paristech.fr).
+For more information, please refer to the [course website](https://controverses.telecom-paristech.fr/sujets-2017/lexposition-aux-radiofrequences-dans-les-habitations/).
 
-You can visit our site [here](https://controverses.telecom-paristech.fr/sites/2017/L-exposition-aux-radiofrequences-dans-les-habitations-groupe-22), enjoy it O(∩_∩)O~~
+You can also visit our [website assignment](https://controverses.telecom-paristech.fr/sites/2017/L-exposition-aux-radiofrequences-dans-les-habitations-groupe-22), enjoy it O(∩_∩)O~~
