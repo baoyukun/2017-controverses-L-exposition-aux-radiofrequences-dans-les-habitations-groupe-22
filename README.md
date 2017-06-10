@@ -1,15 +1,17 @@
 # L'exposition aux radiofrequences dans les habitations - Groupe 22
 
-Hello, everyone. We are the 22 group of course ETIC at Telecom ParisTech.
+Hello, everyone. We are the 22nd group of ETIC course at Telecom ParisTech.
 
 Our group members are:
 
-- [Alexandre Lac](https://github.com/alac88)
-- [Aurelie Marinho](https://github.com/Aurelie1M)
-- [BAO Yukun](https://github.com/baoyukun)
-- [David Perera](https://github.com/daperera)
-- [Hamy Ratoanina](https://github.com/hratoanina)
-- [Louis Fesquet](https://github.com/LouisFesquet)
-- [Najate Ochbouk](https://github.com/Najate)
+- [Alexandre Lac](https://github.com/alac88) (Société Civile)
+- [Aurelie Marinho](https://github.com/Aurelie1M) (Entretiens)
+- [BAO Yukun](https://github.com/baoyukun) (Design web)
+- [David Perera](https://github.com/daperera) (Expertise scientifique et technique)
+- [Hamy Ratoanina](https://github.com/hratoanina) (Intégration Web)
+- [Louis Fesquet](https://github.com/LouisFesquet) (Presse et médias)
+- [Najate Ochbouk](https://github.com/Najate) (Politique et droit)
 
-For more information about this class, please refer to the [course website](https://controverses.telecom-paristech.fr).
+For more information, please refer to the [course website](https://controverses.telecom-paristech.fr).
+
+You can visit our site [here](https://controverses.telecom-paristech.fr/sites/2017/L-exposition-aux-radiofrequences-dans-les-habitations-groupe-22), enjoy it O(∩_∩)O~~
