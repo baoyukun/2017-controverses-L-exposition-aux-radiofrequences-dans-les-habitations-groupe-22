@@ -4,7 +4,7 @@ Hello everyone. I am the responsable of design part in our group and my name is 
 
 You can contact me at any time by email( yukun.bao@telecom-paristech.fr ).
 
-For more information please refer to the [course website](https://controverses.telecom-paristech.fr/sujets-2017/lexposition-aux-radiofrequences-dans-les-habitations/) or our [website assignment](https://controverses.telecom-paristech.fr/sites/2017/L-exposition-aux-radiofrequences-dans-les-habitations-groupe-22).
+For more information please refer to the [course website](https://controverses.telecom-paristech.fr/sujets-2017/lexposition-aux-radiofrequences-dans-les-habitations/) or our [website assignment](https://controverses.telecom-paristech.fr/2017/22-exposition-aux-radiofrequences-dans-les-habitations/).
 
 ## Compte rendu ETIC 2017 -- L'exposition aux radiofréquences dans les habitations
 
